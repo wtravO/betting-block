@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './css/bootstrap.css';
 
-class HomePage extends React.Component<{}, null> {
+class Home extends React.Component<{}, null> {
   render() {
     return (
       <div id="root">
@@ -34,4 +34,4 @@ class HomePage extends React.Component<{}, null> {
   }
 }
 
-export default HomePage;
+export default Home;
