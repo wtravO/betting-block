@@ -8,6 +8,7 @@
     "@types/react": "^15.0.24",
     "@types/react-dom": "^15.5.0",
     "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
